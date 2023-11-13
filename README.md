@@ -1,19 +1,23 @@
 # Aplicación de traducción
 En esta aplicación se uso:
-  Delegate pattern
-  Navegation Controller
-  Segue
-  Storyboard
-  TableViewController
-  TableView
-  TableViewCell
-  View
-  StackView
-  Button with images Assets
-  TextView
-  Constraints
-  Navigation Bar
-  UI Responder
+  Delegate pattern, 
+  Navegation Controller, 
+  Segue, 
+  Storyboard, 
+  TableViewController, 
+  TableView, 
+  TableViewCell, 
+  View, 
+  StackView, 
+  Button with images Assets, 
+  TextView, 
+  Constraints, 
+  Navigation Bar, 
+  UI Responder, 
+  Structs,
+  URL Session,
+  Orientation App, 
+  
 
 # Preview App:
 <img width="363" alt="Captura de pantalla 2023-11-13 a la(s) 4 39 59 p m" src="https://github.com/Cintia333Nun/MyTranslateApp/assets/55222275/a225e179-0a80-4cb3-b82f-e314a22aa98d">
