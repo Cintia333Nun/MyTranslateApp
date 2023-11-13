@@ -154,7 +154,7 @@ class ViewController: UIViewController {
     private func getHeadersTranslateService() -> [String : String] {
         return [
             "Accept-Encoding": "application/gzip",
-            "X-RapidAPI-Key": "582de0c4demsh642394a9b710ec7p1dd672jsn9464f91df962",
+            "X-RapidAPI-Key": "YOUR_KEY",
             "X-RapidAPI-Host": "google-translate1.p.rapidapi.com"
         ]
     }
